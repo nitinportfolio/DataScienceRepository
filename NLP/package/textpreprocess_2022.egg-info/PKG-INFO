@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: textpreprocess-2022
+Version: 0.0.1
+Summary: This is text preprocessing package
+Author: Nitin
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: programming_language :: python :: 3
+Classifier: license ::OSI Approved :: MIT Approvd
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Prerpocessing Python Text Package
+
+This package is built by Nitin for text preprocessing for NLP
+
+install
+
+`pip install git+ssh://git@github.com/nitinportfolio/textpreprocess_2022.git`
+
+uninstall
+
+`pip uninstall textpreprocess_2022.git`
+

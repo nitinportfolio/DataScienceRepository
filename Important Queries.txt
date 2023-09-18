@@ -1,0 +1,26 @@
+df.dtypes.value_counts()
+
+
+To select all numeric types, use np.number or 'number'
+
+To select strings you must use the object dtype but note that this will return all object dtype columns
+
+See the NumPy dtype hierarchy <http://docs.scipy.org/doc/numpy/reference/arrays.scalars.html>__
+
+To select datetimes, use np.datetime64, 'datetime' or 'datetime64'
+
+To select timedeltas, use np.timedelta64, 'timedelta' or 'timedelta64'
+
+To select Pandas categorical dtypes, use 'category'
+
+
+You could use select_dtypes method of DataFrame. It includes two parameters include and exclude. So isNumeric would look like:
+
+numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
+
+newdf = df.select_dtypes(include=numerics)
+
+df.select_dtypes(include = 'number')
+
+# To get only object columns
+data.select_dtypes(include='object').columns.to_list()

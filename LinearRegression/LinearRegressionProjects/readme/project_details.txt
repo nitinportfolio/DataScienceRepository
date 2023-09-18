@@ -1,0 +1,15 @@
+https://www.kaggle.com/stephaniestallworth/melbourne-housing-market-eda-and-regression/data
+
+https://www.kaggle.com/stevezhenghp/airbnb-price-prediction
+
+https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/code
+
+https://www.kaggle.com/dgomonov/data-exploration-on-nyc-airbnb
+
+https://www.kaggle.com/quantbruce/real-estate-price-prediction/code
+
+https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+
+https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
+https://www.kaggle.com/kritikseth/us-airbnb-open-data

@@ -1,0 +1,2 @@
+﻿Is Altair better than Plotly?
+One notable difference is that Altair will keep plot elements and spacing constant while resizing the plot size to fit e.g. more categorical entries, whereas Plotly will modify spacing and the size of the elements in a plot to fit an overall plot size.

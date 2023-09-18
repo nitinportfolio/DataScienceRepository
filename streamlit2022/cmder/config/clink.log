@@ -1,0 +1,92 @@
+12a8 start_logger              154 ---- 2022/01/25 07:45:38.452 -------------------------------------------------
+12a8 start_logger              160 Host process is 'cmd.exe' (pid 4776)
+12a8 start_logger              164 DLL path is 'C:\Users\Administrator\streamlit\cmder\vendor\clink'
+12a8 start_logger              178 Windows version 10.0.17763 (x64)
+12a8 start_logger              181 Clink version 1.2.46.69fc92 (x64)
+12a8 hook_setter::hook_setter  156 >>> Started hook transaction.
+12a8 hook_setter::attach_iat   313 Attempting to hook SetEnvironmentVariableW in IAT for module 00007FF76D7D0000.
+12a8 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+12a8 find_iat                  121 Found import at 00007FF76D801830 (value is 00007FFC1626E100).
+12a8 hook_setter::attach_iat   313 Attempting to hook WriteConsoleW in IAT for module 00007FF76D7D0000.
+12a8 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+12a8 find_iat                  121 Found import at 00007FF76D8014C8 (value is 00007FFC162555D0).
+12a8 hook_setter::attach_iat   313 Attempting to hook GetEnvironmentVariableW in IAT for module 00007FF76D7D0000.
+12a8 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+12a8 find_iat                  121 Found import at 00007FF76D801850 (value is 00007FFC1621EFA0).
+12a8 hook_setter::commit       204 <<< Hook transaction committed.
+12a8 hook_setter::hook_setter  156 >>> Started hook transaction.
+12a8 hook_setter::detach_iat   356 Attempting to unhook 00007FFBFAA9ADF0 from GetEnvironmentVariableW in IAT for module 00007FF76D7D0000.
+12a8 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+12a8 find_iat                  121 Found import at 00007FF76D801850 (value is 00007FFBFAA9ADF0).
+12a8 hook_setter::commit       204 <<< Hook transaction committed.
+12a8 hook_setter::hook_setter  156 >>> Started hook transaction.
+12a8 hook_setter::attach_iat   313 Attempting to hook ReadConsoleW in IAT for module 00007FF76D7D0000.
+12a8 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+12a8 find_iat                  121 Found import at 00007FF76D8014B0 (value is 00007FFC162F1660).
+12a8 hook_setter::commit       204 <<< Hook transaction committed.
+12a8 win_screen_buffer::begin  227 Using native terminal support; found 'ConEmuHk64.dll'.
+12a8 extract_ctag              945 read 0 bytes
+12a8 extract_ctag              945 read 0 bytes
+12a8 history_db::initialise   1268 master bank ctag: |CTAG_1643096740_98843_4776_0
+12a8 history_db::compact      1492 History:  0 active, 0 deleted
+12a8 reset_handle              145 resetting mismatched stdout handle
+12a8 history_db::compact      1492 History:  1 active, 0 deleted
+12a8 history_db::compact      1492 History:  2 active, 0 deleted
+12a8 history_db::compact      1492 History:  3 active, 0 deleted
+12a8 history_db::compact      1492 History:  4 active, 0 deleted
+12a8 history_db::compact      1492 History:  5 active, 0 deleted
+12a8 history_db::compact      1492 History:  6 active, 0 deleted
+12a8 history_db::compact      1492 History:  7 active, 0 deleted
+12a8 history_db::compact      1492 History:  8 active, 0 deleted
+12a8 history_db::compact      1492 History:  8 active, 1 deleted
+12a8 history_db::compact      1492 History:  9 active, 1 deleted
+12a8 reset_handle              145 resetting mismatched stdout handle
+12a8 history_db::compact      1492 History:  9 active, 2 deleted
+12a8 history_db::compact      1492 History:  10 active, 2 deleted
+12a8 history_db::compact      1492 History:  11 active, 2 deleted
+12a8 history_db::compact      1492 History:  12 active, 2 deleted
+12a8 history_db::compact      1492 History:  13 active, 2 deleted
+12a8 history_db::compact      1492 History:  13 active, 2 deleted
+12a8 history_db::compact      1492 History:  13 active, 3 deleted
+12a8 history_db::compact      1492 History:  14 active, 3 deleted
+12a8 history_db::compact      1492 History:  15 active, 3 deleted
+12a8 history_db::compact      1492 History:  15 active, 4 deleted
+12a8 history_db::compact      1492 History:  15 active, 5 deleted
+12a8 history_db::compact      1492 History:  15 active, 6 deleted
+12a8 reset_handle              145 resetting mismatched stdout handle
+12a8 history_db::compact      1492 History:  16 active, 6 deleted
+12a8 history_db::compact      1492 History:  17 active, 6 deleted
+12a8 history_db::compact      1492 History:  18 active, 6 deleted
+12a8 history_db::compact      1492 History:  19 active, 6 deleted
+12a8 history_db::compact      1492 History:  20 active, 6 deleted
+12a8 history_db::compact      1492 History:  21 active, 6 deleted
+12a8 history_db::compact      1492 History:  21 active, 7 deleted
+12a8 history_db::compact      1492 History:  22 active, 7 deleted
+12a8 history_db::compact      1492 History:  23 active, 7 deleted
+12a8 history_db::compact      1492 History:  24 active, 7 deleted
+12a8 history_db::compact      1492 History:  24 active, 8 deleted
+12a8 history_db::compact      1492 History:  24 active, 9 deleted
+12a8 reset_handle              145 resetting mismatched stdout handle
+12a8 history_db::compact      1492 History:  24 active, 10 deleted
+12a8 history_db::compact      1492 History:  25 active, 10 deleted
+12a8 history_db::compact      1492 History:  25 active, 10 deleted
+12a8 history_db::compact      1492 History:  26 active, 10 deleted
+12a8 history_db::compact      1492 History:  27 active, 10 deleted
+12a8 history_db::compact      1492 History:  27 active, 10 deleted
+12a8 history_db::compact      1492 History:  28 active, 10 deleted
+12a8 history_db::compact      1492 History:  28 active, 11 deleted
+12a8 reset_handle              145 resetting mismatched stdout handle
+12a8 history_db::compact      1492 History:  29 active, 11 deleted
+12a8 history_db::compact      1492 History:  30 active, 11 deleted
+12a8 history_db::compact      1492 History:  31 active, 11 deleted
+12a8 history_db::compact      1492 History:  32 active, 11 deleted
+12a8 history_db::compact      1492 History:  33 active, 11 deleted
+12a8 history_db::compact      1492 History:  33 active, 11 deleted
+12a8 history_db::compact      1492 History:  33 active, 12 deleted
+12a8 history_db::compact      1492 History:  34 active, 12 deleted
+12a8 history_db::compact      1492 History:  34 active, 13 deleted
+12a8 history_db::compact      1492 History:  34 active, 14 deleted
+12a8 history_db::compact      1492 History:  34 active, 15 deleted
+12a8 history_db::compact      1492 History:  35 active, 15 deleted
+12a8 history_db::compact      1492 History:  36 active, 15 deleted
+12a8 history_db::compact      1492 History:  36 active, 16 deleted

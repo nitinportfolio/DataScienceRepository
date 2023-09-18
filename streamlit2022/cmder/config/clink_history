@@ -1,0 +1,53 @@
+|CTAG_1643096740_98843_4776_0
+pip install pipenv
+|ip install streamlit pandas numpy seaborn matplotlib altair plotly
+cd C:\Users\Administrator\streamlit
+mkdir module01
+|s
+cd C:\Users\Administrator\streamlit\module01
+touch appy.py
+del appy.py
+|s
+touch app.py
+|s
+|treamlit run app.py
+pip install nupy
+pip imstall numpy
+|ip install numpy
+|treamlit run app.py
+pip uninstall numpy
+conda install -n base numpy
+|treamlit run app.py
+pip install numpy
+|treamlit run app.py
+|onda env list
+conda list
+conda info
+conda create --name streamlit2022 
+conda activate streamlit2022
+conda list env
+conda env list
+conda install python
+conda install streamlit pandas numpy seaborn matplotlib altair plotly
+streamlist run app.py
+pip install streamlit pandas numpy seaborn matplotlib altair plotly
+|s
+|treamlit run app.py
+conda uninstall numpy
+|ython --version
+conda update python
+python3 --version
+python --version
+numpy --version
+conda numpy --version
+import numpy
+python -c "import numpy; print(numpy.version.version)"
+|ip list
+|treamlit run app.py
+|onda install streamlit
+pip list
+ls
+streamlit run app.py
+conda update streamlit
+conda uninstall streamlit
+conda install streamlit

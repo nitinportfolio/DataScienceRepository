@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+textpreprocess_2022/__init__.py
+textpreprocess_2022/utils.py
+textpreprocess_2022.egg-info/PKG-INFO
+textpreprocess_2022.egg-info/SOURCES.txt
+textpreprocess_2022.egg-info/dependency_links.txt
+textpreprocess_2022.egg-info/top_level.txt
